@@ -1,0 +1,51 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.navbar-color {
+    background-color: #0a82d1;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', sans-serif ;
+    font-size: 1.5rem;
+}
+
+
+
+.carousel-indicators li {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.recipe-title {
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.recipe-subtitle {
+    margin: 2.5em 0 1.5em;
+}
+
+.recipe .row > div > p {
+    margin-bottom: 0;
+}
+
+.cooking {
+    padding: 2em 0 0 .75em;
+}
+
+.center{
+    text-align: center;
+    margin: 3mm;
+}
+.hr{
+    color: aqua;
+}
+.centrado{
+    text-align: center;
+    margin: 3%;
+}
